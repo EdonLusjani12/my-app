@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "piggies": {
+      "$code": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
